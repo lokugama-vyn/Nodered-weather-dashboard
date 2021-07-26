@@ -23,8 +23,8 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "TP-LINK_04C49C";
-const char* password = "varniyomali";
+const char* ssid = "ssid";
+const char* password = "password";
 const char* mqtt_server = "Broker.mqttdashboard.com";
 //const char* incommingTopic2="Access denied";
 WiFiClient espClient;
